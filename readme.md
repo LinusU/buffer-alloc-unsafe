@@ -2,6 +2,9 @@
 
 A ponyfill for `Buffer.allocUnsafe`.
 
+Works as Node.js: `v7.0.0` <br>
+Works on Node.js: `v0.10.0`
+
 ## Installation
 
 ```sh
@@ -39,4 +42,5 @@ to zero. Otherwise, a `RangeError` is thrown.
 ## See also
 
 - [buffer-alloc](https://github.com/LinusU/buffer-alloc) A ponyfill for `Buffer.alloc`
+- [buffer-fill](https://github.com/LinusU/buffer-fill) A ponyfill for `Buffer.fill`
 - [buffer-from](https://github.com/LinusU/buffer-from) A ponyfill for `Buffer.from`
