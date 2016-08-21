@@ -1,6 +1,6 @@
 {
   "name": "buffer-alloc-unsafe",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "repository": "LinusU/buffer-alloc-unsafe",
   "scripts": {
