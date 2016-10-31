@@ -15,6 +15,7 @@
     "buffer allocUnsafe",
     "buffer unsafe allocate",
     "buffer",
+    "ponyfill",
     "unsafe allocate"
   ]
 }
